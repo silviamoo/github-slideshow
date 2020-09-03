@@ -1,3 +1,3 @@
 #!/bin/bash
-cat 0000-01-02.silviamoo.md
+echo " "
 echo Good Morning!Have a nice day!
